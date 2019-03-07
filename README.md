@@ -1,6 +1,6 @@
 # Pendataan_alat_GPS
-database version postgresql 11(pg admin 4.2)
-backup database location (database/manage_gps)
+1. database version postgresql 11(pg admin 4.2)
+2. backup database location (database/manage_gps)
 restore database dengan nama yang sama = manage_gps
 buka dengan menggunakan localhost localhost/gps_rival
 login (terdiri dari 2 role admin & user)
